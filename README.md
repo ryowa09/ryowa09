@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 📍 I lived in Obando, Bulacan Philippines
 - 📚 I'm currently studying
 
-
+# My Skills
