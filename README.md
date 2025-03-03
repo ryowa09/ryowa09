@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 📚 I'm currently studying
 
 ## My Skills
+
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black)
