@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📍 I lived in Obando, Bulacan Philippines
-- 📚 I'm a college student
-- 🎮 I love video games!
+- 📚 Still studying (3rd Year)
+- 🎮 I love playing video games!
+- ⚡ A ongoing full stack developer soon!
 
 ## My Skills
 
